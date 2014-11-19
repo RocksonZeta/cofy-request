@@ -1,5 +1,6 @@
 cofy-request
 ============
+[![Build Status](https://travis-ci.org/RocksonZeta/cofy.svg?branch=master)](https://travis-ci.org/RocksonZeta/cofy-request)
 
 cofy request.
 
